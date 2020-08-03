@@ -1,0 +1,13 @@
+C:\devbuild\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.csprojAssemblyReference.cache
+C:\devbuild\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.AssemblyInfoInputs.cache
+C:\devbuild\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.AssemblyInfo.cs
+C:\devbuild\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\devbuild\Week5\Lab5.2RockPaperScissors\bin\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.exe
+C:\devbuild\Week5\Lab5.2RockPaperScissors\bin\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.deps.json
+C:\devbuild\Week5\Lab5.2RockPaperScissors\bin\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.runtimeconfig.json
+C:\devbuild\Week5\Lab5.2RockPaperScissors\bin\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.runtimeconfig.dev.json
+C:\devbuild\Week5\Lab5.2RockPaperScissors\bin\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.dll
+C:\devbuild\Week5\Lab5.2RockPaperScissors\bin\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.pdb
+C:\devbuild\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.dll
+C:\devbuild\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.pdb
+C:\devbuild\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.genruntimeconfig.cache
